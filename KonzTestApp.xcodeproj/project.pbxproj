@@ -13,6 +13,7 @@
 		7947EE151E7FFE6700CD40B5 /* KonzTestApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7947EE131E7FFE6700CD40B5 /* KonzTestApp.xcdatamodeld */; };
 		7947EE171E7FFE6700CD40B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7947EE161E7FFE6700CD40B5 /* Assets.xcassets */; };
 		7947EE1A1E7FFE6700CD40B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7947EE181E7FFE6700CD40B5 /* LaunchScreen.storyboard */; };
+		7947EE221E80177B00CD40B5 /* Magic_Machine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7947EE211E80177B00CD40B5 /* Magic_Machine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7947EE161E7FFE6700CD40B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7947EE191E7FFE6700CD40B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7947EE1B1E7FFE6800CD40B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7947EE211E80177B00CD40B5 /* Magic_Machine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Magic_Machine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				7947EE0C1E7FFE6700CD40B5 /* AppDelegate.swift */,
 				7947EE0E1E7FFE6700CD40B5 /* ViewController.swift */,
+				7947EE211E80177B00CD40B5 /* Magic_Machine.swift */,
 				7947EE101E7FFE6700CD40B5 /* Main.storyboard */,
 				7947EE161E7FFE6700CD40B5 /* Assets.xcassets */,
 				7947EE181E7FFE6700CD40B5 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				7947EE0F1E7FFE6700CD40B5 /* ViewController.swift in Sources */,
 				7947EE0D1E7FFE6700CD40B5 /* AppDelegate.swift in Sources */,
 				7947EE151E7FFE6700CD40B5 /* KonzTestApp.xcdatamodeld in Sources */,
+				7947EE221E80177B00CD40B5 /* Magic_Machine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
