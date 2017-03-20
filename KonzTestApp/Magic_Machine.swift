@@ -9,10 +9,10 @@
 import Foundation
 import UIKit
 
-class Magic_Machine {
+class MagicMachine {
     
-    var raw_image : UIImage
+    var rawImage : UIImage
     
-    var solution_ID : Int
+    var solutionID : Int
     
 }
